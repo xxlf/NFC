@@ -2,5 +2,12 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>MainForm.ui.qml</file>
+        <file>Mode.qml</file>
+        <file>images/cork.jpg</file>
+        <file>images/icon.png</file>
+        <file>images/NfcFlag.png</file>
+        <file>images/note-yellow.png</file>
+        <file>images/tack.png</file>
+        <file>android/AndroidManifest.xml</file>
     </qresource>
 </RCC>
